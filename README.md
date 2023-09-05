@@ -1,9 +1,9 @@
 # Setup
 ## Data
-The published dataset BeDOI are currently available at Baidu Cloud, you can download it via https://pan.baidu.com/s/1CKUTUKACjpb_OsAOkTM35A and the extraction code: 2eov.
+The published dataset BeDOI are currently available at Baidu Cloud, you can download it via https://pan.baidu.com/s/1Dr-xUWrLtqKqILDaTxN2yw code: non8.
 
 ## Dataset Format
-![DirectoryStructure](https://github.com/WHUHaoZhan/BeDOI/blob/main/DirectoryStructure.png)
+![DirectoryStructure](https://github.com/WHUxywjohn/BeDOI/blob/main/DirectoryStructure.png)
 ## File Description
   | FilePath | Description |
   |    :----:   | --- |
